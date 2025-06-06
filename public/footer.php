@@ -10,7 +10,7 @@
                 <?php if ($this->options->JBanQuan) : ?>
                     <span class="info"><?php $this->options->JBanQuan() ?></span>
                 <?php else : ?>
-                    <span class="info">2019 - 2020 © Reach - <a href="//laolion.com">laolion</a></span>
+                    <span class="info">2019 - 2020 © Reach - <a href="//pi.mrcongliu.com">laolion</a></span>
                 <?php endif; ?>
                 <?php if ($this->options->JCountTime === 'on') : ?>
                     <svg viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg">
@@ -107,7 +107,7 @@ show_date_time();</script> </p>
 <script type="text/javascript">
 var defaultEncoding = 0; //默认是否繁体，0-简体，1-繁体
 var translateDelay = 0; //延迟时间,若不在</body>前, 要设定延迟翻译时间, 如100表示100ms,默认为0
-var cookieDomain = "https://laolion.com/"; 
+var cookieDomain = "https://pi.mrcongliu.com/"; 
 var msgToTraditionalChinese = "繁"; //默认切换为繁体时显示的中文字符
 var msgToSimplifiedChinese = "简"; //默认切换为简体时显示的中文字符
 var translateButtonId = "translateLink"; //默认互换id
@@ -169,27 +169,27 @@ translateInitilization();
 	<nav class="nav-shouji">
     <div class="nav-item">
         <div class="img">
-            <a href="https://laolion.com/admin/login.php"><img src="https://laolion.com/img/login.png"></a>
+            <a href="https://pi.mrcongliu.com/admin/login.php"><img src="https://pi.mrcongliu.com/img/login.png"></a>
         </div>       
     </div>
     <div class="nav-item">
         <div class="img">
-            <a href="https://laolion.com/shuo.html"><img src="https://laolion.com/img/tea.png"></a>
+            <a href="https://pi.mrcongliu.com/shuo.html"><img src="https://pi.mrcongliu.com/img/tea.png"></a>
         </div>        
     </div>
     <a class="nav-item">
         <div class="img">
-            <a href="https://laolion.com/"><img src="https://laolion.com/img/home.png"></a>
+            <a href="https://pi.mrcongliu.com/"><img src="https://pi.mrcongliu.com/img/home.png"></a>
         </div>       
     </a>
     <div class="nav-item">
         <div class="img">
-            <a href="https://laolion.com/contribute.html"><img src="https://laolion.com/img/bizhi.png"></a>
+            <a href="https://pi.mrcongliu.com/contribute.html"><img src="https://pi.mrcongliu.com/img/bizhi.png"></a>
         </div>        
     </div>
     <div class="nav-item">
         <div class="img">
-             <a href="https://laolion.com/music.html"><img src="https://laolion.com/img/music.png"></a>
+             <a href="https://pi.mrcongliu.com/music.html"><img src="https://pi.mrcongliu.com/img/music.png"></a>
         </div>       
     </div>
 </nav>

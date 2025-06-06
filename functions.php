@@ -454,8 +454,7 @@ function themeConfig($form)
     $JGravatars = new Typecho_Widget_Helper_Form_Element_Select(
         'JGravatars',
         array(
-            'gravatar.helingqi.com/wavatar' => '禾令奇（默认）',
-            'www.gravatar.com/avatar' => 'gravatar的www源',
+            'www.gravatar.com/avatar' => 'gravatar的www源（默认）',
             'cn.gravatar.com/avatar' => 'gravatar的cn源',
             'secure.gravatar.com/avatar' => 'gravatar的secure源',
             'sdn.geekzu.org/avatar' => '极客族',
@@ -463,7 +462,7 @@ function themeConfig($form)
             'dn-qiniu-avatar.qbox.me/avatar' => '七牛源[不建议]',
             'gravatar.loli.net/avatar' => 'loli.net源',
         ),
-        'gravatar.helingqi.com/wavatar',
+        'www.gravatar.com/avatar',
         '选择头像源',
         '介绍：不同的源响应速度不同，头像也不同'
     );

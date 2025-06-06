@@ -3,11 +3,11 @@
         <!-- ！！！请保留此项！！！ -->
         <section class="item blue">
             <section class="title">
-                <a href="//laolion.com" target="_blank">老狮的梦</a>
+                <a href="//pi.mrcongliu.com" target="_blank">老狮的梦</a>
             </section>
             <section class="content">
                 <section class="desc">一只游走在广袤无垠的草原老狮</section>
-                <img src="//laolion.com/img/ico.png" />
+                <img src="//pi.mrcongliu.com/img/ico.png" />
             </section>
         </section>
     </li>

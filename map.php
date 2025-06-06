@@ -42,7 +42,7 @@
 			<div style="background:#353535;padding: 15px;border-radius: 10px;">
 
 <iframe width="100%" scrolling="no" height="680" align="middle" frameborder="no"
-                src="https://laolion.com/map/" hspace="0" vspace="0" marginheight="0"
+                src="https://pi.mrcongliu.com/map/" hspace="0" vspace="0" marginheight="0"
                 marginwidth="0" name="tv">
                 </iframe>
 				

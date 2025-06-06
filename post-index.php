@@ -31,7 +31,7 @@
     <div id="navgation" class="navgation navgation_close">
         <ul class="point">
             <li><a href="#">首页</a></li>
-            <li><a href="https://laolion.com">博客</a></li>
+            <li><a href="https://pi.mrcongliu.com">博客</a></li>
             <li><a href="/gbook.html">留言</a></li>
         </ul>
         <div class="logo"><a>老狮</a></div>
@@ -42,7 +42,7 @@
                 <div class="nav wow zoomIn" data-wow-duration="2s">
                     <h1>老狮的梦</h1>
                     <p>一只游走在广袤无垠的草原老狮！</p>
-                    <a class="layui-btn layui-btn-normal" style="margin-top: 20px" href="https://laolion.com">Enter Blog</a>
+                    <a class="layui-btn layui-btn-normal" style="margin-top: 20px" href="https://pi.mrcongliu.com">Enter Blog</a>
                 </div>
                 <a class="next wow fadeInUp" data-wow-duration="2s" id="next"></a>
             </div>
@@ -61,12 +61,12 @@
                         <div class="layui-col-xs12 layui-col-sm4 layui-col-md4  wow fadeInUp" style="padding: 0 10px">
                             <div class="single-news">
                                 <div class="news-head">
-                                    <img src="https://laolion.com/usr/uploads/2020/03/2402724754.png">
-                                    <a href="https://laolion.com/category/game/" class="link"><i class="fa fa-link"></i></a>
+                                    <img src="https://pi.mrcongliu.com/usr/uploads/2020/03/2402724754.png">
+                                    <a href="https://pi.mrcongliu.com/category/game/" class="link"><i class="fa fa-link"></i></a>
                                 </div>
                                 <div class="news-content">
                                     <h4>
-                                        <a href="https://laolion.com/category/game/">
+                                        <a href="https://pi.mrcongliu.com/category/game/">
                                            游戏人生
                                         </a>
                                     </h4>                                    
@@ -79,12 +79,12 @@
                         <div class="layui-col-xs12 layui-col-sm4 layui-col-md4  wow fadeInUp" data-wow-delay=".2s" style="padding: 0 10px">
                             <div class="single-news">
                                 <div class="news-head">
-                                    <img src="https://laolion.com/usr/uploads/2021/03/4096227207.jpg">
-                                    <a href="https://laolion.com/category/code/" class="link"><i class="fa fa-link"></i></a>
+                                    <img src="https://pi.mrcongliu.com/usr/uploads/2021/03/4096227207.jpg">
+                                    <a href="https://pi.mrcongliu.com/category/code/" class="link"><i class="fa fa-link"></i></a>
                                 </div>
                                 <div class="news-content">
                                     <h4>
-                                        <a href="https://laolion.com/category/code/">
+                                        <a href="https://pi.mrcongliu.com/category/code/">
                                            网络代码
                                         </a>
                                     </h4>                                   
@@ -97,12 +97,12 @@
                         <div class="layui-col-xs12 layui-col-sm4 layui-col-md4  wow fadeInUp" data-wow-delay=".4s" style="padding: 0 10px">
                             <div class="single-news">
                                 <div class="news-head">
-                                    <img src="https://laolion.com/usr/uploads/2020/11/1087236984.jpg">
-                                    <a href="https://laolion.com/category/momisc/" class="link"><i class="fa fa-link"></i></a>
+                                    <img src="https://pi.mrcongliu.com/usr/uploads/2020/11/1087236984.jpg">
+                                    <a href="https://pi.mrcongliu.com/category/momisc/" class="link"><i class="fa fa-link"></i></a>
                                 </div>
                                 <div class="news-content">
                                     <h4>
-                                        <a href="https://laolion.com/category/momisc/">
+                                        <a href="https://pi.mrcongliu.com/category/momisc/">
                                             观影听音
                                         </a>                                    </h4>
                                     
@@ -125,7 +125,7 @@
             <div class="container">
                 <div class="layui-row">
                     <div class="layui-col-xs12 layui-col-sm12 layui-col-md12 text-center">
-                        <p><span><img src="https://laolion.com/img/beian.png"><a href="http://www.beian.gov.cn/portal/registerSystemInfo"> 皖34081102000372号</a></span>&nbsp;皖ICP备19022537号</p>
+                        <p><span><img src="https://pi.mrcongliu.com/img/beian.png"><a href="http://www.beian.gov.cn/portal/registerSystemInfo"> 皖34081102000372号</a></span>&nbsp;皖ICP备19022537号</p>
                     </div>
                 </div>
             </div>
