@@ -10,7 +10,7 @@
                 <?php if ($this->options->JBanQuan) : ?>
                     <span class="info"><?php $this->options->JBanQuan() ?></span>
                 <?php else : ?>
-                    <span class="info">2019 - 2020 © Reach - <a href="//liucong.com">laolion</a></span>
+                    <span class="info">2016-2026 © <a href="//liucong.com">liucong.com</a></span>
                 <?php endif; ?>
                 <?php if ($this->options->JCountTime === 'on') : ?>
                     <svg viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg">
