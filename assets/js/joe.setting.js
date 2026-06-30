@@ -72,7 +72,7 @@
                 }
             }
         };
-        xhr.open('get', 'https://pi.mrcongliu.com/img/gengxin.txt', true);
+        xhr.open('get', 'https://liucong.com/img/gengxin.txt', true);
         xhr.send(null);
     });
 })();

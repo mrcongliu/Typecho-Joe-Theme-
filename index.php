@@ -6,7 +6,7 @@
  * 
  * @package JOE魔改版
  * @author 老狮
- * @link //pi.mrcongliu.com
+ * @link //liucong.com
  *
  **/
 
