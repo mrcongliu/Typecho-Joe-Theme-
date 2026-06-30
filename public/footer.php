@@ -107,7 +107,7 @@ show_date_time();</script> </p>
 <script type="text/javascript">
 var defaultEncoding = 0; //默认是否繁体，0-简体，1-繁体
 var translateDelay = 0; //延迟时间,若不在</body>前, 要设定延迟翻译时间, 如100表示100ms,默认为0
-var cookieDomain = "https://liucong.com/"; 
+var cookieDomain = "http://liucong.com/"; 
 var msgToTraditionalChinese = "繁"; //默认切换为繁体时显示的中文字符
 var msgToSimplifiedChinese = "简"; //默认切换为简体时显示的中文字符
 var translateButtonId = "translateLink"; //默认互换id
@@ -169,27 +169,27 @@ translateInitilization();
 	<nav class="nav-shouji">
     <div class="nav-item">
         <div class="img">
-            <a href="https://liucong.com/admin/login.php"><img src="https://liucong.com/img/login.png"></a>
+            <a href="http://liucong.com/admin/login.php"><img src="http://liucong.com/img/login.png"></a>
         </div>       
     </div>
     <div class="nav-item">
         <div class="img">
-            <a href="https://liucong.com/shuo.html"><img src="https://liucong.com/img/tea.png"></a>
+            <a href="http://liucong.com/shuo.html"><img src="http://liucong.com/img/tea.png"></a>
         </div>        
     </div>
     <a class="nav-item">
         <div class="img">
-            <a href="https://liucong.com/"><img src="https://liucong.com/img/home.png"></a>
+            <a href="http://liucong.com/"><img src="http://liucong.com/img/home.png"></a>
         </div>       
     </a>
     <div class="nav-item">
         <div class="img">
-            <a href="https://liucong.com/contribute.html"><img src="https://liucong.com/img/bizhi.png"></a>
+            <a href="http://liucong.com/contribute.html"><img src="http://liucong.com/img/bizhi.png"></a>
         </div>        
     </div>
     <div class="nav-item">
         <div class="img">
-             <a href="https://liucong.com/music.html"><img src="https://liucong.com/img/music.png"></a>
+             <a href="http://liucong.com/music.html"><img src="http://liucong.com/img/music.png"></a>
         </div>       
     </div>
 </nav>
